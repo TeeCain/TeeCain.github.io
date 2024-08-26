@@ -23,6 +23,7 @@ These artifacts collectively represent my growth as a computer science professio
 
 ## Software Engineering & Design
 **Artifact 1:**
+
 [Original Corner Grocer App](https://github.com/TeeCain/Cplusplus/)
 
 [Enhanced Corner App](https://github.com/TeeCain/Enhanced-Corner-Grocer-App)
@@ -32,6 +33,7 @@ Enhancement 1 [Narrative (Software Engineering & Design).pdf](https://github.com
 
 ## Data Structures & Algorithms & Databases
 **Artifact 2:**
+
 [Original Mobile Inventory App](https://github.com/TeeCain/Mobile-Architecture-Inventory-App/)
 
 [Enhanced Mobile Inventory App](https://bitbucket.org/tcain-capstone/artifact-enhancements/src/main/)
