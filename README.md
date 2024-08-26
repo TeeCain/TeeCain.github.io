@@ -30,4 +30,4 @@ Artifact 1
 ## Data Structures & Algorithms & Databases
 Artifact 2
 [Original] Mobile Inventory App (https://github.com/TeeCain/Mobile-Architecture-Inventory-App/)
-[Enhanced]  
+[Enhanced]  (https://bitbucket.org/tcain-capstone/artifact-enhancements/src/main/)
