@@ -36,8 +36,12 @@ Enhancement 1 [Narrative (Software Engineering & Design).pdf](https://github.com
 
 [Original Mobile Inventory App](https://github.com/TeeCain/Mobile-Architecture-Inventory-App/)
 
+
 [Enhanced Mobile Inventory App](https://bitbucket.org/tcain-capstone/artifact-enhancements/src/main/)
 
 Enhancement 2 [Narrative (Data Structures & Algorithms).pdf](https://github.com/user-attachments/files/16747118/Narrative.Data.Structures.Algorithms.pdf)
 
 Enhancement 3 [Narrative (Databases).pdf](https://github.com/user-attachments/files/16747120/Narrative.Databases.pdf)
+
+## Code Review
+📺 [CLICK HERE](https://youtu.be/aAz6lBsAhrM)
