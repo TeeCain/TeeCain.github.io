@@ -1,12 +1,10 @@
 # Computer-Science-Capstone
 
 
-
+## Self-Assessment
   Reflecting on my journey through the Computer Science program, I realize how each course has been a stepping stone towards refining my technical skills and shaping my professional identity. Developing my e-portfolio has allowed me to showcase my strengths and accomplishments, aligning them with my long-term career goals. Throughout this program, I have honed my expertise in critical areas like cybersecurity and mobile application development, which are pivotal in the ever-evolving tech industry. This combination of skills, reinforced by a strong foundation in computer science, has prepared me to enter the workforce as a competitive candidate, capable of contributing effectively to any team environment.
   
-  Collaboration has been a key aspect of my learning experience. Whether working on group projects or engaging in peer reviews, I have developed a strong ability to communicate and work efficiently in a team. For example, in a project where we designed a network security solution, collective brainstorming and problem-solving efforts were essential in achieving a robust final product. This experience improved my technical knowledge and enhanced my interpersonal skills, preparing me to collaborate with stakeholders in a professional setting.
-
-  Communication with stakeholders, especially in technical projects, is critical. My coursework has equipped me with the ability to convey complex technical concepts in a clear and understandable manner. While developing a mobile application for inventory management, I had to present progress updates and explain the rationale behind certain design decisions to technical and non-technical stakeholders. This experience underscored the importance of adapting communication styles to different audiences, a skill that will be invaluable in my future career.
+  Collaboration and communication has been a key aspect of my learning experience. I have developed a strong ability to communicate with my peers in discussion forums. This experience enhanced my interpersonal skills, preparing me to collaborate with peers and stakeholders in a professional setting. My coursework has equipped me with the ability to convey complex technical concepts in a clear and understandable manner. While developing a mobile application for inventory management, I had to present progress updates and explain the rationale behind certain design decisions to technical and non-technical stakeholders. This experience underscored the importance of adapting communication styles to different audiences, a skill that will be invaluable in my future career.
 
   The program’s focus on data structures and algorithms has been particularly transformative in my understanding of software engineering. From implementing efficient sorting algorithms to designing complex data structures like HashMaps for user authentication in my mobile app, I have gained a deep appreciation for the importance of these concepts in building optimized and scalable software solutions. These skills have been further enhanced through projects that required the application of algorithmic principles to solve real-world problems, such as optimizing the layout of a store based on purchase frequency.
 
@@ -16,8 +14,9 @@
 
 
 My e-portfolio is a reflection of the diverse range of skills I have acquired throughout my academic journey. The artifacts included demonstrate my ability to design, develop, and enhance software solutions across various domains, from software development and mobile applications to cybersecurity and cloud integration.
-1.	**Corner Grocer** - This artifact showcases my proficiency in software development, particularly in converting applications from C++ to Python. It highlights my ability to implement robust input validation, exception handling, and data visualization features, reflecting my commitment to creating user-friendly and reliable software.
-2.	**Mobile Inventory Management Application**
+1.	**Corner Grocer**
+- This artifact showcases my proficiency in software development, particularly in converting applications from C++ to Python. It highlights my ability to implement robust input validation, exception handling, and data visualization features, reflecting my commitment to creating user-friendly and reliable software.
+3.	**Mobile Inventory Management Application**
 - This mobile app exemplifies my expertise in mobile application development, with a focus on efficient data structures and user authentication mechanisms. The use of HashMaps and ArrayLists in this project demonstrates my ability to implement effective data storage and retrieval methods, ensuring both functionality and security.
 - An upgraded version of the previous artifact, this project integrates a real-time, cloud-based database, enhancing the app’s flexibility and scalability. This artifact illustrates my understanding of modern development practices, including cloud technology integration, and highlights my ability to document and improve existing codebases.
 These artifacts collectively represent my growth as a computer science professional and my readiness to apply my skills in a real-world context. Each project has contributed to my development, not just as a coder, but as a problem-solver, communicator, and team player, all of which are crucial in the dynamic field of computer science.
@@ -25,10 +24,10 @@ These artifacts collectively represent my growth as a computer science professio
 ## Software Engineering & Design
 Artifact 1
 [Original] Corner Grocer App (https://github.com/TeeCain/Cplusplus/)
-[Enhanced] Corner App: (https://github.com/TeeCain/Enhanced-Corner-Grocer-App)
+[Enhanced] Corner App (https://github.com/TeeCain/Enhanced-Corner-Grocer-App)
 
 
 ## Data Structures & Algorithms & Databases
 Artifact 2
 [Original] Mobile Inventory App (https://github.com/TeeCain/Mobile-Architecture-Inventory-App/)
-Enhanced 
+[Enhanced]  
