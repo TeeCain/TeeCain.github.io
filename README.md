@@ -22,8 +22,6 @@ My e-portfolio is a reflection of the diverse range of skills I have acquired th
 - An upgraded version of the previous artifact, this project integrates a real-time, cloud-based database, enhancing the app’s flexibility and scalability. This artifact illustrates my understanding of modern development practices, including cloud technology integration, and highlights my ability to document and improve existing codebases.
 These artifacts collectively represent my growth as a computer science professional and my readiness to apply my skills in a real-world context. Each project has contributed to my development, not just as a coder, but as a problem-solver, communicator, and team player, all of which are crucial in the dynamic field of computer science.
 
-![image](https://github.com/user-attachments/assets/28268eb0-e15d-4118-a729-19fa919b09a5)
-
 ## Software Engineering & Design
 Artifact 1
 [Original] Corner Grocer App (https://github.com/TeeCain/Cplusplus/)
