@@ -22,7 +22,7 @@ My e-portfolio is a reflection of the diverse range of skills I have acquired th
 These artifacts collectively represent my growth as a computer science professional and my readiness to apply my skills in a real-world context. Each project has contributed to my development, not just as a coder, but as a problem-solver, communicator, and team player, all of which are crucial in the dynamic field of computer science.
 
 ## Software Engineering & Design
-Artifact 1
+###Artifact 1:
 [Original Corner Grocer App](https://github.com/TeeCain/Cplusplus/)
 
 [Enhanced Corner App](https://github.com/TeeCain/Enhanced-Corner-Grocer-App)
@@ -31,10 +31,11 @@ Enhancement 1 Narrative:[Narrative (Software Engineering & Design).pdf](https://
 
 
 ## Data Structures & Algorithms & Databases
-Artifact 2
+###Artifact 2:
 [Original Mobile Inventory App](https://github.com/TeeCain/Mobile-Architecture-Inventory-App/)
 
 [Enhanced Mobile Inventory App](https://bitbucket.org/tcain-capstone/artifact-enhancements/src/main/)
 
 Enhancement 2 Narrative: [Narrative (Data Structures & Algorithms).pdf](https://github.com/user-attachments/files/16747118/Narrative.Data.Structures.Algorithms.pdf)
-Enhancement 1 Narrative: [Narrative (Databases).pdf](https://github.com/user-attachments/files/16747120/Narrative.Databases.pdf)
+
+Enhancement 3 Narrative: [Narrative (Databases).pdf](https://github.com/user-attachments/files/16747120/Narrative.Databases.pdf)
